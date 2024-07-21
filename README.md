@@ -1,4 +1,4 @@
-## Hey 👋, I'm Lynn Fernandes!  
+## Hey 👋, I'm Lynn Fernandes !   
   
 
 <a href="https://github.com/LynnFernandes23" target="_blank">
@@ -14,7 +14,7 @@
 
 
 
-### Glad to see you here!  
+### Glad to see you here! 🚀  
 I’m a Web Developer, Salesforce Platform Developer, and Data Analyst who has turned years of working on projects into a full-time career. My expertise allows me to develop user-friendly websites with robust backend support and transform data into actionable insights. I specialize in creating efficient, secure, and scalable systems that enhance user experiences and drive business success. I love exploring new technologies and frequently search about topics such as Data Analysis, Cybersecurity, Machine Learning and emerging tech trends like Blockchain and Artificial Intelligence.
 
 I'm also a certified Red Hat System Administrator and a SalesForce Platform Developer 😆.  
