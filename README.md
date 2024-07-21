@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynnfernandes23" alt="lynnfernandes23" /></a> </p>
 
-- 🌱 I’m currently learning **I'm currently learning advanced web development and data analysis techniques.**
+- 🌱 **I'm currently learning advanced web development and data analysis techniques.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LynnFernandes23](https://github.com/LynnFernandes23)
 
